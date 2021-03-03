@@ -4,8 +4,7 @@ Source files to build FAnTom docker-image
 
 To build an image you need to compile: 
 
-* [FAnTom Web Server](https://github.com/Center-of-Diagnostics-and-Telemedicine/FAnTom/FantomWebServer)
-* [FAnTom library](https://github.com/Center-of-Diagnostics-and-Telemedicine/FAnTom/FantomLibrary)
+* FantomWebServer and FantomLibrary. This modules are available in [FAnTom](https://github.com/Center-of-Diagnostics-and-Telemedicine/FAnTom)
 
 And download: 
 
